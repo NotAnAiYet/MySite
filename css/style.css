@@ -1,0 +1,14 @@
+body {
+    background-color: var(--nord1);
+    color: var(--nord6);
+  }
+
+.card {
+  background-color: var(--nord3)!important;
+  color: var(--nord6)!important;  
+}
+
+.jumbotron {
+  background-color: var(--nord10);
+  color: var(--nord6);
+}
